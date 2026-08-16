@@ -1,0 +1,4 @@
+*.pt
+*.model
+*.vocab
+__pycache__/
